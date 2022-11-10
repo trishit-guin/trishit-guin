@@ -9,3 +9,8 @@
 - 📫 How to reach me: Check social links below.
 </br>
 
+## 🌐 Connect with me:
+
+
+<a href="https://terimeristudy.blogspot.com/" alt="Twitter">
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/blogger.png" height="30" width="30"></a>  
