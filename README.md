@@ -3,7 +3,7 @@
   
 # 💫 About Me :
 - 🔭 I’m currently more into the Programming
-- 🌱 I’m currently learning more about git and github. 
+- 🌱 I’m currently learning more about github and video editing.
 - 😄 Pronouns: He/His
 - 💬 Ask me about any tech-related stuff.
 - 📫 How to reach me: Check social links below.
@@ -23,14 +23,17 @@
 <a href="https://github.com/trishit-guin" alt="Github">
 <img src="https://github.com/trishit-guin/trishit-guin/blob/main/github.png" height="30" width="30"></a>
 
-## Languages I know:
+## 💻 Languages I know:
 
 <a alt="Python"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/python.png" height="40" width="107"></a>
 <a alt="MySql"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/mysql.png" height="50" width="50"></a>
 
-## Tools I have worked with:
+## 🛠 Tools I have worked with:
 
 <a alt="PyCharm"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/pycharm.png" height="50" width="167"></a>
 <a alt="VSCode"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/vscode.png" height="50" width="103"></a>
 <a alt="PythonIDLE"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/idle.png" height="50" width="113"></a>
 <a alt="OpenShot"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/openshot.png" height="50" width="155"></a>
+
+## ✍ Random Dev Quote:
+## "A code is more than some bytes in a file.''
