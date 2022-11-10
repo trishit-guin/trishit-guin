@@ -36,4 +36,5 @@
 <a alt="OpenShot"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/openshot.png" height="50" width="155"></a>
 
 ## ✍ Random Dev Quote:
-## "A code is more than some bytes in a file.''
+
+<p>"A code is more than some bytes in a file."</p>
