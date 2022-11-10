@@ -19,7 +19,9 @@
 <a href="https://youtube.com/@terimeristudy" alt="YouTube">
 <img src="https://github.com/trishit-guin/trishit-guin/blob/main/youtube.png" height="30" width="30"></a>
 <a href="https://www.instagram.com/trishit_guin/" alt="Instagram">
-<img src="https://github.com/trishit-guin/trishit-guin/blob/main/instagram.png" height="30" width="30"></a>  
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/instagram.png" height="30" width="30"></a> 
+<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=tg20050924@gmail.com" alt="Gmail">
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/gmail.png" height="30" width="30"></a>
 <a href="https://github.com/trishit-guin" alt="Github">
 <img src="https://github.com/trishit-guin/trishit-guin/blob/main/github.png" height="30" width="30"></a>
 
