@@ -30,11 +30,16 @@
 
 ## 🛠 Tools I have worked with:
 
-<a href="https://www.jetbrains.com/pycharm/" alt="PyCharm"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/pycharm.png" height="50" width="167"></a>
-<a href="https://code.visualstudio.com/" alt="VSCode"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/vscode.png" height="50" width="103"></a>
-<a href="https://python.org/downloads" alt="PythonIDLE"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/idle.png" height="50" width="113"></a>
-<a href="https://openshot.org" alt="OpenShot"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/openshot.png" height="50" width="155"></a>
+<a href="https://www.jetbrains.com/pycharm/" alt="PyCharm"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/pycharm.png" height="40" width="134"></a>
+<a href="https://code.visualstudio.com/" alt="VSCode"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/vscode.png" height="40" width="83"></a>
+<a href="https://python.org/downloads" alt="PythonIDLE"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/idle.png" height="40" width="91"></a>
+<a href="https://openshot.org" alt="OpenShot"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/openshot.png" height="40" width="124"></a>
+
+## 🏆 Trophies:
+<p align="left"><a alt="trishit-guin">
+<img src="https://github-profile-trophy.vercel.app/?username=trishit-guin&margin-w=17&theme=algolia"/ ></a> </p>
 
 ## ✍ Random Dev Quote:
+>"A code is more than some bytes in a file."
 
-<p>"A code is more than some bytes in a file."</p>
+
