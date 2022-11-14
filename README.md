@@ -39,6 +39,11 @@
 <p align="left"><a alt="trishit-guin">
 <img src="https://github-profile-trophy.vercel.app/?username=trishit-guin&margin-w=17&theme=algolia"/ ></a> </p>
 
+## 📊 Stats:
+<p align="left"><a alt="trishit-guin">
+<img src="https://github-readme-stats.vercel.app/api?username=trishit-guin&theme=algolia&show_icons=true&count_private=true"/ ></p>
+</br>
+
 ## ✍ Random Dev Quote:
 >"A code is more than some bytes in a file."
 
