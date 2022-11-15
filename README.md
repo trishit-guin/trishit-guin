@@ -46,5 +46,9 @@
 
 ## ✍ Random Dev Quote:
 >"A code is more than some bytes in a file."
+</br>
+
+<p align="right"><a alt="Visitor Count">
+<img src="https://komarev.com/ghpvc/?username=trishit-guin&&style=plastic&color=green&label=VISITOR+COUNT"></p>
 
 
