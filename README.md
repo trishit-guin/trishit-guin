@@ -14,27 +14,35 @@
 
 
 <a href="https://terimeristudy.blogspot.com/" alt="Blogger">
-<img src="https://github.com/trishit-guin/trishit-guin/blob/main/blogger.png" height="30" width="30"></a>
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/blogger.png" height="30" width="30"></a>&nbsp&nbsp&nbsp
 <a href="https://twitter.com/trishitguin2005" alt="Twitter">
-<img src="https://github.com/trishit-guin/trishit-guin/blob/main/twitter.png" height="30" width="30"></a>
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/twitter.png" height="30" width="30"></a>&nbsp&nbsp&nbsp
 <a href="https://youtube.com/@terimeristudy" alt="YouTube">
-<img src="https://github.com/trishit-guin/trishit-guin/blob/main/youtube.png" height="30" width="30"></a>
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/youtube.png" height="30" width="30"></a>&nbsp&nbsp&nbsp
 <a href="https://www.instagram.com/trishit_guin/" alt="Instagram">
-<img src="https://github.com/trishit-guin/trishit-guin/blob/main/instagram.png" height="30" width="30"></a> 
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/instagram.png" height="30" width="30"></a>&nbsp&nbsp&nbsp
 <a href="https://github.com/trishit-guin" alt="Github">
-<img src="https://github.com/trishit-guin/trishit-guin/blob/main/github.png" height="30" width="30"></a>
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/github.png" height="30" width="30"></a>&nbsp&nbsp&nbsp
+<a href="https://reddit.com/user/tr_ishit" alt="Reddit">
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/reddit.png" height="30" width="30"></a>&nbsp&nbsp&nbsp
 
 ## 💻 Languages I know:
 
-<a href="https://python.org" alt="Python"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/python.png" height="40" width="107"></a>
-<a href="https://mysql.com" alt="MySql"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/mysql.png" height="50" width="50"></a>
+<a href="https://python.org" alt="Python">
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/python.png" height="40" width="107"></a>&nbsp&nbsp&nbsp
+<a href="https://mysql.com" alt="MySql">
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/mysql.png" height="50" width="50"></a>
 
 ## 🛠 Tools I have worked with:
 
-<a href="https://www.jetbrains.com/pycharm/" alt="PyCharm"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/pycharm.png" height="40" width="134"></a>
-<a href="https://code.visualstudio.com/" alt="VSCode"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/vscode.png" height="40" width="83"></a>
-<a href="https://python.org/downloads" alt="PythonIDLE"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/idle.png" height="40" width="91"></a>
-<a href="https://openshot.org" alt="OpenShot"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/openshot.png" height="40" width="124"></a>
+<a href="https://www.jetbrains.com/pycharm/" alt="PyCharm">
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/pycharm.png" height="40" width="134"></a>&nbsp&nbsp&nbsp
+<a href="https://code.visualstudio.com/" alt="VSCode">
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/vscode.png" height="40" width="83"></a>&nbsp&nbsp&nbsp
+<a href="https://python.org/downloads" alt="PythonIDLE">
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/idle.png" height="40" width="91"></a>&nbsp&nbsp&nbsp
+<a href="https://openshot.org" alt="OpenShot">
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/openshot.png" height="40" width="124"></a>
 
 ## 🏆 Trophies:
 <p align="left"><a alt="trishit-guin">
