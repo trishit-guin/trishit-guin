@@ -42,7 +42,9 @@
 <a href="https://python.org/downloads" alt="PythonIDLE">
 <img src="https://github.com/trishit-guin/trishit-guin/blob/main/idle.png" height="40" width="91"></a>&nbsp&nbsp&nbsp
 <a href="https://openshot.org" alt="OpenShot">
-<img src="https://github.com/trishit-guin/trishit-guin/blob/main/openshot.png" height="40" width="124"></a>
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/openshot.png" height="40" width="124"></a>&nbsp&nbsp&nbsp
+<a href="https://jupyter.org" alt="Jupyter">
+<img src="https://github.com/trishit-guin/trishit-guin/blob/main/jupyter.png" height="40" width="51"></a>
 
 ## 🏆 Trophies:
 <p align="left"><a alt="trishit-guin">
