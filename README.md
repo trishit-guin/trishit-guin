@@ -14,7 +14,7 @@
 
 
 <a href="https://terimeristudy.blogspot.com/" alt="Blogger">
-<img src="https://github.com/trishit-guin/trishit-guin/blob/main/blogger.png" height="30" width="30"></a>&nbsp&nbsp&nbsp
+<img src="https://drive.google.com/uc?export=view&id=1vArYQEjcldBcQEi7eBrrurhLSd4SlWyZ" height="30" width="30"></a>&nbsp&nbsp&nbsp
 <a href="https://twitter.com/trishitguin2005" alt="Twitter">
 <img src="https://github.com/trishit-guin/trishit-guin/blob/main/twitter.png" height="30" width="30"></a>&nbsp&nbsp&nbsp
 <a href="https://youtube.com/@terimeristudy" alt="YouTube">
