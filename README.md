@@ -1,5 +1,5 @@
   <h1 align="center"> Namaste 🙏🏻 &nbsp&nbsp&nbsp I'm </h1> </br>
-  <div align="center" class="img-div"><img src="https://github.com/trishit-guin/trishit-guin/blob/main/giphy.gif" alt="Trishit Guin" height=100% width=100%>
+  <div align="center" class="img-div"><img src="https://drive.google.com/uc?export=view&id=1n-VIg8KhxhSrvHWMsMZXvbG7JPZVUaL0" alt="Trishit Guin" height=100% width=100%>
   </div>
   
 # 💫 About Me :
